@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , I'm <a href="https://vermagaurav.co/">Gaurav!</a> </h1>
 
 <p align="center">
-  <img src = "vinyltocat.png" width = "400" height = "300" align = "center">
+  <img src = "vinyltocat.png" width = "350" height = "350" align = "center">
 </p>
 
 <p align="center">
@@ -14,9 +14,9 @@
 
 </p>
 
-<h2> :information_desk_person:&nbsp; About Me</h2>
+<h2>About Me</h2>
 
-I am a Sophomore doing Computer Science engineering from UIET Kurukshetra :classical_building:. I am passionate about Full Stack development 🚀 and Open Source Contribution 💻. My areas of interest includes Web Design and Development, Computer Vision and Competitive Coding.
+I am a Sophomore doing Computer Science engineering from UIET Kurukshetra :classical_building:. I am passionate about Full Stack development 🚀 and Open Source Contribution 💻. My areas of interest includes Web Development, Computer Vision and Competitive Coding.
 I am a curious person who wants to explore every tech stack :bulb: .<br>
 My goal is to solve real life problems using technology and create an impact :sparkles:.
 
@@ -43,8 +43,8 @@ My goal is to solve real life problems using technology and create an impact :sp
 <h2>ℹ️ &nbsp;Github Info</h2>
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vermagaurav8&show_icons=true&locale=en&hide_border=true" alt="vermagaurav8" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vermagaurav8&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="vermagaurav8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vermagaurav8&show_icons=true&locale=en&hide_border=true" alt="vermagaurav8" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vermagaurav8&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="vermagaurav8" align = "center"/>
 </details>
 
 <details>
