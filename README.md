@@ -16,7 +16,7 @@
 
 <h2>About Me</h2>
 
-I am a Sophomore doing Computer Science engineering from UIET Kurukshetra :classical_building:. I am passionate about Full Stack development 🚀 and Open Source Contribution 💻. My areas of interest includes Web Development, Computer Vision and Competitive Coding.
+I am a junior doing Computer Science engineering from UIET Kurukshetra :classical_building:. I am passionate about Full Stack development 🚀 and Open Source Contribution 💻. My areas of interest includes Web Development, Computer Vision and Competitive Coding.
 I am a curious person who wants to explore every tech stack :bulb: .<br>
 My goal is to solve real life problems using technology and create an impact :sparkles:.
 
@@ -25,7 +25,7 @@ My goal is to solve real life problems using technology and create an impact :sp
 - 🔭 &nbsp; Currently playing around ReactJS ecosystem and building [Ulinkus](https://github.com/Ulinkus).
 - 🤝 &nbsp; Open for collaborations in web development projects.
 - 🌐 &nbsp; Visit my [porfolio website](https://vermagaurav.co) for complete background and contact.
-- 📝 &nbsp; Checkout my [Resume](http://bit.ly/resume_softwareintern).
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1W5RkpnKiXD2FDEQOCqUI360MlZzzsEvJ/view?usp=sharing).
 - :ski: &nbsp; When not coding, I binge watch shows, listen to music or play video games.
 - 🌱 &nbsp; Would love to hear about your project and big idea.
 
