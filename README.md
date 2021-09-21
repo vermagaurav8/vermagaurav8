@@ -1,8 +1,6 @@
 <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , I'm <a href="https://vermagaurav.co/">Gaurav!</a> </h1>
 
-<p align="center">
-  <img src = "vinyltocat.png" width = "350" height = "350" align = "center">
-</p>
+
 
 <p align="center">
     <a href="https://vermagaurav.co"><img alt="Website" title="website" src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://vermagaurav.co"/></a>
