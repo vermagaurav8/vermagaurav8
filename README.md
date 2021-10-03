@@ -40,21 +40,28 @@ My goal is to solve real life problems using technology and create an impact :sp
 
 <h2>ℹ️ &nbsp;Github Info</h2>
 <details>	
-  <summary><b>⚡ Github Stats</b></summary>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vermagaurav8&show_icons=true&locale=en&hide_border=true" alt="vermagaurav8" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vermagaurav8&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="vermagaurav8" align = "center"/>
+  <summary><b>🔎 Github Profile Details</b></summary>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vermagaurav8&theme=github_dark" alt="vermagaurav8" align = "center"/></p>
 </details>
-
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=vermagaurav8&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="vermagaurav8" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vermagaurav8&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="vermagaurav8" align = "center"/></p>
+</details>
 <details>
  <summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vermagaurav8" alt="vermagaurav8" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vermagaurav8&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="vermagaurav8" /></p>
 </details>
-
 <details>
- <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vermagaurav8&margin-w=5" alt="vermagaurav8" /></a> </p>
+<summary><b>📊 Github Contribution Graph</b></summary>
+<p align="center"<a href="#"><img alt="Gaurav Verma's simran2104Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vermagaurav8&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 </details>
- <hr>
+<details>   
+ <summary><b>🏆 Github Achievements</b></summary>
+<p align="center"> <a href="https://github.com/vermagaurav8"><img src="https://github-profile-trophy.vercel.app/?username=vermagaurav8&margin-w=5&theme=radical" alt="vermagaurav8" /></a> </p>
+</details>
+<br>
+ 
 <p align="center">
     <i>Take a look at my repositories and let's get in touch!</i><br><br>
    <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-ff69b4.svg"/>
