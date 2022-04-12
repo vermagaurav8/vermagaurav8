@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , I'm <a href="https://vermagaurav.co/">Gaurav!</a> </h1>
+<h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , I'm <a href="https://vermagaurav.me">Gaurav!</a> </h1>
 
 
 
@@ -7,7 +7,6 @@
   <a href="https://www.linkedin.com/in/vermagaurav8"><img alt="linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vermagaurav8"/></a>
   <a href="mailto:gaurav.verma382001@gmail.com"><img alt="gmail" title="gmail" src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:gaurav.verma382001@gmail.com"/></a>
 <a href="https://twitter.com/vermagaurav0"><img alt="twitter" title="twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vermagaurav0"/></a>
-<a href="https://www.codechef.com/users/vermagaurav"><img alt="codechef" title="codechef" src="https://img.shields.io/badge/-codechef-935F31?style=flat&logo=codechef&logoColor=white"/></a>
 <a href="https://auth.geeksforgeeks.org/user/vermagaurav8/practice/"><img alt="geeksforgeeks" title="geeksforgeeks" src="https://img.shields.io/badge/-geeksforgeeks-success?style=flat&logo=geeksforgeeks&logoColor=white"/></a>
 
 </p>
