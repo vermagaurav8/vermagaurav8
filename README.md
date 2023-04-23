@@ -1,64 +1,54 @@
-<h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , I'm <a href="https://vermagaurav.me">Gaurav!</a> </h1>
+### Hi there 👋
 
+<img
+  width="30%"
+  height="10%"
+  align="right"  src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"
+/>
 
-
-<p align="center">
-    <a href="https://vermagaurav.co"><img alt="Website" title="website" src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://vermagaurav.co"/></a>
-  <a href="https://www.linkedin.com/in/vermagaurav8"><img alt="linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vermagaurav8"/></a>
-  <a href="mailto:gaurav.verma382001@gmail.com"><img alt="gmail" title="gmail" src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:gaurav.verma382001@gmail.com"/></a>
-<a href="https://twitter.com/vermagaurav0"><img alt="twitter" title="twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vermagaurav0"/></a>
-<a href="https://auth.geeksforgeeks.org/user/vermagaurav8/practice/"><img alt="geeksforgeeks" title="geeksforgeeks" src="https://img.shields.io/badge/-geeksforgeeks-success?style=flat&logo=geeksforgeeks&logoColor=white"/></a>
-
+<p> I am Gaurav Verma. I'm a  pursuing Bachelor of Technology focused in Computer Science and engineering from University Institute of Engineering and Technology Kurukshetra. I am passionate about Full Stack development,Blockchain and Open-Source contribution. 
 </p>
-
-<h2>About Me</h2>
-
-I am in final year pursuing Computer Science Engineering from UIET-KUK :classical_building:. I am passionate about Full Stack development 🚀 and Open Source Contribution 💻.
 
 ### More about me:
 
-- 🔭 &nbsp; Currently playing around ReactJS and Typescript.
-- 🤝 &nbsp; Open for collaborations.
-- 🌐 &nbsp; Visit my [porfolio website](https://vermagaurav.me) for complete background and contact.
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1W5RkpnKiXD2FDEQOCqUI360MlZzzsEvJ/view?usp=sharing).
-- 🌱 &nbsp; Would love to hear about your project and big idea.
+- 👷 &nbsp; Currently building projects using ReactJS and NodeJS.
+- 🔨 &nbsp; Learning TypeScript and React Native.
+- 🤝 &nbsp; Would love to collaborate.
+- 📝 &nbsp; Check out my [Resume](https://drive.google.com/file/d/1voU9RLJiM-hmCpvlcTSMJA3UUOX1JXlt/view?usp=sharing).
+- 👀 &nbsp; Check my [Portfolio](https://heygaurav.me)
 
-<h2> 🛠 &nbsp;My Tech Stack</h2>
-
+### My Tech Stack
 - Programming languages : <br />
-  [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)](https://www.python.org)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 - Frontend : <br />
-  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3.org/html/) [![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/) [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/) [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+  ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) 
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 - Backend : <br />
-  [![Firebase](https://img.shields.io/badge/-Firebase-2C2D72?style=flat&logo=firebase&logoColor=FFCA28)](https://firebase.google.com/) [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)](https://nodejs.org) [![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)](https://heroku.com) [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+  ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+  ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 - OS,IDE & Tools : <br />
-  [![VS Code](http://img.shields.io/badge/-VS%20Code-5C2D91?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/) [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+  ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-<h2>ℹ️ &nbsp;Github Info</h2>
-<details>	
-  <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vermagaurav8&theme=github_dark" alt="vermagaurav8" align = "center"/></p>
-</details>
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=vermagaurav8&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="vermagaurav8" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vermagaurav8&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="vermagaurav8" align = "center"/></p>
-</details>
-<details>
- <summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vermagaurav8&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="vermagaurav8" /></p>
-</details>
-<details>
-<summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Gaurav Verma's simran2104Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vermagaurav8&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
-</details>
-<details>   
- <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/vermagaurav8"><img src="https://github-profile-trophy.vercel.app/?username=vermagaurav8&margin-w=5&theme=radical" alt="vermagaurav8" /></a> </p>
-</details>
-<br>
- 
-<p align="center">
-    <i>Take a look at my repositories and let's get in touch!</i><br><br>
-   <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-ff69b4.svg"/>
-</p>
+### How to reach me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heygaurav8.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vermagaurav0)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vermagaurav8)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vermagaurav0/)
+
+
+<summary><b>⚡ Github Stats</b></summary>
+  <p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vermagaurav8&show_icons=true&theme=github_dark&hide_border=true"  align = "center"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermagaurav8&layout=compact&theme=github_dark&hide_border=true" align = "center"/>
+  </p>
