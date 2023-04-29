@@ -14,7 +14,7 @@
 - 👷 &nbsp; Currently building projects using ReactJS and NodeJS.
 - 🔨 &nbsp; Learning TypeScript and React Native.
 - 🤝 &nbsp; Would love to collaborate.
-- 📝 &nbsp; Check out my [Resume](https://drive.google.com/file/d/1voU9RLJiM-hmCpvlcTSMJA3UUOX1JXlt/view?usp=sharing).
+- 📝 &nbsp; Check out my [Resume](https://drive.google.com/file/d/1PAE9lPE_qXWNG02988DjX7bmlzJ20sXp/view?usp=sharing).
 - 👀 &nbsp; Check my [Portfolio](https://heygaurav.me)
 
 ### My Tech Stack
