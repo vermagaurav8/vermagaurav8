@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Gaurav  👋
 
-<p align='justify'> I'm a Computer Science & Engineering graduate, passionate about Full Stack development and  Open-Source contribution. My expertise spans web applications, API integrations, and AWS cloud services, and I'm eager to bring my problem-solving skills and collaborative nature to your team. Let's create exceptional solutions together. 🌟
+<p align='justify'> 👋 Full-Stack Software Engineer 🌐 | DevOps Enthusiast 🚀 | Specializing in Scalable Backend Development & AWS Cloud Services ☁️ | Let's craft exceptional solutions together! 💼
 </p>
 
 
@@ -12,7 +12,7 @@
 - **Ask me about :** Anything!, I'm happy to help ✌️
 - **Pronouns :** He/Him/His 😇
 - **Resume/Portfolio :**  Checkout my [Resume](https://drive.google.com/file/d/149egLV6stnrluxCj1gkqgQoR55cz0SKI/view?usp=sharing) 👀
-- **Contact :** Feel free to connect me via [Email](mailto:heygaurav8@gmail.com) or [LinkedIn](https://www.linkedin.com/in/vermagaurav8/) 📫
+- **Contact :** Feel free to connect me via [Email](mailto:heygaurav8@gmail.com) or [X](https://x.com/vermagaurav0) 📫
 
 
 ### My Skills
