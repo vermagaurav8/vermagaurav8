@@ -1,8 +1,8 @@
-<img src="./Header.png"/>
+
 
 ### Hi there, I'm Gaurav  👋
 
-<p align='justify'> 👋 Full-Stack Software Engineer 🌐 | DevOps Enthusiast 🚀 | Specializing in Scalable Backend Development & AWS Cloud Services ☁️ | Let's craft exceptional solutions together! 💼
+<p align='justify'> Full-Stack Software Engineer 🌐 | DevOps Enthusiast 🚀 | Specializing in Scalable Backend Development & AWS Cloud Services ☁️ | Let's craft exceptional solutions together! 💼
 </p>
 
 
