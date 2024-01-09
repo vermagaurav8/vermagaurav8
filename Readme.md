@@ -22,9 +22,3 @@
 </div>
 
 
-### GitHub Stats
-
-<div align="center">  
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vermagaurav8&theme=github_dark" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vermagaurav8&theme=github_dark"/>
-</div>
